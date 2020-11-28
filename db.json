@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "kadai": "1.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/11"},
+    { "kadai": "2.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/17"},
+    { "kadai": "3.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/13"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

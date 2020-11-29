@@ -3,10 +3,10 @@
     { "kadai": "1.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/11"},
     { "kadai": "2.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/17"},
     { "kadai": "3.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/13"},
-    { "kadai": "1.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/11"},
-    { "kadai": "2.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/17"},
-    { "kadai": "1.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/11"},
-    { "kadai": "2.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/17"},
+    { "kadai": "4.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/11"},
+    { "kadai": "5.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/17"},
+    { "kadai": "6.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/11"},
+    { "kadai": "7.c", "kadaiinfo": "~~~~" ,"limit" :"2020/11/17"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
